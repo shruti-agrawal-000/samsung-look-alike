@@ -1,0 +1,735 @@
+
+
+.body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+}
+
+.first_link {
+    color: black;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.link1:hover {
+    color: white;
+    background-color: black;
+    border: black;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 12px;
+}
+
+.second_link {
+    color: black;
+    margin: 15px;
+    margin-left: 230px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.link1 {
+    margin-left: 25px;
+}
+
+.link2 {
+    margin-left: 25px;
+}
+
+.link2:hover {
+    color: white;
+    background-color: black;
+    border: black;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 12px;
+
+}
+
+.container1 {
+    background-image: url("images/samsung_winter_bg.jpg");
+    height: 670px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image1 {
+    width: 101px;
+    height: 171px;
+    margin-left: 30px;
+    position: relative;
+}
+
+.image2 {
+    margin-left: 1240px;
+    height: 171px;
+    width: 101px;
+    position: relative;
+}
+
+.winter_heading {
+    margin-left: 50px;
+    font-size: 60px;
+
+}
+
+.winter_para {
+    margin-left: 50px;
+    color: rgb(22, 20, 20)
+}
+
+.winter_btn {
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    padding: 14px 40px;
+    border-radius: 35px;
+    text-align: center;
+    margin-left: 160px;
+    border-color: black;
+}
+.winter_btn:hover {
+    
+    cursor: pointer;
+    background-color: grey;
+}
+
+.winter_img {
+    margin-left: 640px;
+    margin-top: -240px;
+}
+
+.container2_heading {
+    font-size: 47px;
+    text-align: center;
+}
+
+.container2_link {
+    margin-left: 470px;
+
+}
+
+.winter_link1 {
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+.winter_link {
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.winter_link:hover {
+    cursor: pointer;
+    color: #404040;
+}
+
+.card1 {
+    background-color: #f2f2f2;
+    width: 682px;
+    margin: 30px;
+    height: 700px;
+    border-radius: 25px;
+}
+
+.card1 h2 {
+    margin: 20px;
+    text-align: center;
+
+}
+
+.card1 img {
+    width: 406px;
+    margin: 100px;
+}
+
+.card1 button {
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    margin-left: 40px;
+    border: 2px solid black;
+    padding: 10px 25px;
+    margin-left: 288px;
+}
+.card1 button:hover {
+    
+    cursor: pointer;
+    background-color: grey;
+}
+
+.card2 {
+    background-color: #f2f2f2;
+    height: 350px;
+    width: 352px;
+    margin-left: 742px;
+    margin-top: -729px;
+    border-radius: 25px;
+
+}
+
+.card3 {
+    background-color: #f2f2f2;
+    height: 350px;
+    width: 340px;
+    margin-left: 1123px;
+    margin-top: -347px;
+    border-radius: 25px;
+}
+
+.card4 {
+    background-color: #f2f2f2;
+    height: 350px;
+    width: 350px;
+    margin-left: 743px;
+    border-radius: 25px;
+}
+
+.card5 {
+    background-color: #f2f2f2;
+    height: 350px;
+    width: 343px;
+    margin-left: 1123px;
+    margin-top: -346px;
+    border-radius: 25px;
+}
+
+.card2 img {
+    margin: 60px;
+}
+
+.card3 img {
+    margin: 50px;
+}
+
+.card4 img {
+    margin: 50px;
+}
+
+.card5 img {
+    margin: 50px;
+}
+
+.card2 p {
+    font-weight: bold;
+    margin-left: 27px;
+    margin-top: -35px;
+}
+
+.card3 p {
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: -38px;
+}
+
+.card4 p {
+    font-weight: bold;
+    margin-left: 44px;
+    margin-top: -25px;
+}
+
+.card5 p {
+    font-weight: bold;
+    margin-left: 54px;
+    margin-top: -12px;
+}
+
+.container3 {
+    background-color: #f2f2f2;
+    height: 820px;
+    width: 1445px;
+    margin: 30px;
+}
+
+.con3_h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.con3_link {
+    text-decoration-line: underline;
+    font-weight: bold;
+    margin-left: 289px;
+    font-size: 18px;
+}
+
+.con3_links {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 20px;
+}
+
+.con3_links:hover{
+    cursor: pointer;
+    color: #404040;
+}
+
+.container3 img {
+    margin-left: 308px;
+    margin-top: 82px;
+}
+
+.con3_para {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+.con3_para2 {
+    color: grey;
+    text-align: center;
+    margin-top: -30px;
+
+}
+
+.con3_lm {
+    text-decoration-line: underline;
+    margin-left: 570px;
+    font-weight: bold;
+}
+
+.con3_lm:hover {
+    color: grey;
+}
+
+.container3 button {
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+
+    border: 2px solid black;
+    padding: 10px 25px;
+    margin-left: 50px;
+}
+
+.container3 button:hover {
+    background-color: grey;
+    opacity: 0.5;
+}
+
+.con4 h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.con4_links {
+    text-decoration-line: underline;
+    font-weight: bold;
+    margin-left: 445px;
+    font-size: 15px;
+}
+
+.con4_link {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.con4 img {
+    width: 802px;
+    height: 394px;
+    margin-left: 372px;
+    margin-top: 60px;
+
+}
+
+.con4 p {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.con4_lm {
+    text-decoration-line: underline;
+    margin-left: 650px;
+    font-weight: bold;
+    margin-top: -40px;
+}
+
+.con4_lm:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.con4 button {
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+
+    border: 2px solid black;
+    padding: 10px 25px;
+    margin-left: 50px;
+}
+
+.con4 button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    background-color: grey;
+}
+
+.con5 {
+    background-image: url("images/samsung_con5_bg.jpg");
+    width: 1445px;
+    height: 865px;
+    margin: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.con5 h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 55px;
+}
+
+.con5_link {
+    text-decoration-line: underline;
+    font-weight: bold;
+    margin-left: 399px;
+    font-size: 18px;
+}
+
+.con5_links {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 20px;
+}
+
+.con5 img {
+    width: 583px;
+    height: 394px;
+    margin-left: 497px;
+    margin-top: 60px;
+
+}
+
+.con5 p {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: -26px;
+}
+
+.con5 h6 {
+    color: #1a1a1a;
+    margin-left: 652px;
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+.con5_lm {
+    text-decoration-line: underline;
+    margin-left: 619px;
+    font-weight: bold;
+    margin-top: -40px;
+}
+
+.con5_lm:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.con5 button {
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+
+    border: 2px solid black;
+    padding: 10px 25px;
+    margin-left: 50px;
+}
+
+.con5 button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    background-color: grey;
+}
+
+.con6 {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.con6 img {
+    width: 778px;
+    margin-left: -660px;
+}
+
+.con6_que1 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 796px;
+    margin-top: -632px;
+}
+
+.con6_que2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 796px;
+    margin-top: 70px;
+}
+
+.con6_que3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 894px;
+    margin-top: 55px;
+}
+
+.con6_que4 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 626px;
+    margin-top: 51px;
+}
+
+
+.con6_lm {
+    text-decoration-line: underline;
+    margin-left: 619px;
+    font-weight: bold;
+    margin-top: -40px;
+}
+
+.con6_lm:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.con6 button {
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+
+    border: 2px solid black;
+    padding: 10px 25px;
+    margin-left: 50px;
+}
+
+.con6 button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    background-color: grey;
+}
+
+.con7 h1 {
+    text-align: center;
+    margin-top: 337px;
+    font-size: 40px;
+}
+
+.con7_btn1 {
+
+    border-radius: 32px;
+    margin-left: 484px;
+    font-size: 13px;
+    padding: 10px 15px;
+    margin-top: 40px;
+    border: 2px solid #bfbfbf;
+    background-color: white;
+}
+
+.con7_btn2 {
+    border-radius: 32px;
+    margin-left: 4px;
+    font-size: 13px;
+    padding: 10px 15px;
+    border: 2px solid #bfbfbf;
+    background-color: white;
+}
+
+.con7_btn3 {
+    border-radius: 32px;
+    margin-left: 5px;
+    font-size: 13px;
+    padding: 10px 15px;
+    border: 2px solid #bfbfbf;
+    background-color: white;
+}
+
+.con7_btn4 {
+    border-radius: 32px;
+    margin-left: 8px;
+    font-size: 13px;
+    padding: 10px 15px;
+    border: 2px solid #bfbfbf;
+    background-color: white;
+}
+
+.con7_btn5 {
+    border-radius: 32px;
+    margin-left: 6px;
+    font-size: 13px;
+    padding: 10px 15px;
+    border: 2px solid #bfbfbf;
+    background-color: white;
+}
+
+.con7_btn6 {
+    border-radius: 32px;
+    margin-left: 611px;
+    font-size: 13px;
+    padding: 10px 15px;
+    margin-top: 10px;
+    border: 2px solid #bfbfbf;
+    background-color: white;
+
+}
+
+.con7_btn7 {
+    border-radius: 32px;
+    margin-left: 6px;
+    font-size: 13px;
+    padding: 10px 15px;
+    border: 2px solid #bfbfbf;
+    background-color: white;
+}
+
+.con7_btn1:hover{
+   cursor: pointer;
+    background-color: grey;
+} 
+.con7_btn2:hover{
+    cursor: pointer;
+     background-color: grey;
+ } 
+ .con7_btn3:hover{
+    cursor: pointer;
+     background-color: grey;
+ } 
+ .con7_btn4:hover{
+    cursor: pointer;
+     background-color: grey;
+ } 
+ .con7_btn5:hover{
+    cursor: pointer;
+     background-color: grey;
+ } 
+ .con7_btn6:hover{
+    cursor: pointer;
+     background-color: grey;
+ } 
+ .con7_btn7:hover{
+    cursor: pointer;
+     background-color: grey;
+ } 
+
+.con7 form {
+    margin-left: 514px;
+    padding: 19px;
+    font-size: 17px;
+
+    float: left;
+    width: 28%;
+    background: #f1f1f1;
+    border-radius: 112px;
+}
+
+.con7 p {
+    color: #666666;
+    margin-left: 90px;
+    font-size: 15px;
+}
+
+.center{
+    text-align: justify;
+    margin-left: 10px;
+}
+.list{
+    display:flex;
+    
+    
+}
+.list1 {
+    list-style-type:none;
+    margin:10px;
+    color:#404040;
+}
+
+.list2 {
+    list-style-type:none;
+    margin-left:80px
+    ; color:#404040;
+}
+
+.list3 {
+    list-style-type:none;
+    margin-left:80px;
+    color:#404040;
+}
+
+.list4 {
+    list-style-type:none;
+    margin-left:80px;
+    color:#404040;
+}
+
+.list5 {
+    list-style-type:none;
+    margin-left:80px;
+    color:#404040;
+}
+.list1-link1{
+    font-weight: bold;
+    color:black;
+    margin-bottom: 15px;
+}
+.list2-link1{
+    font-weight: bold;
+    color:black;
+    margin-bottom: 15px;
+}
+.list3-link1{
+    font-weight: bold;
+    color:black;
+    margin-bottom: 15px;
+}
+.list4-link1{
+    font-weight: bold;
+    color:black;
+    margin-bottom: 15px;
+}
+.list5-link1{
+    font-weight: bold;
+    color:black;
+    margin-bottom: 15px;
+}
+.list1:hover{
+    cursor: pointer;
+}
+.list2:hover{
+    cursor: pointer;
+}
+.list3:hover{
+    cursor: pointer;
+}
+.list4:hover{
+    cursor: pointer;
+}
+.list5:hover{
+    cursor: pointer;
+    
+}
+
+/* .list1-links{
+    color:#404040;
+ 
+} */
